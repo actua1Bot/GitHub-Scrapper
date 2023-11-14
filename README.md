@@ -1,1 +1,1 @@
-# GitHub-Scrapper
+# Scrapper
